@@ -10,7 +10,7 @@
 
 <img src="images/Case2_position2.png" width="200" height="200"> <img src="images/Case2_velocity2.png" width="200" height="200"> <img src="images/Case2_acceleration2.png" width="200" height="200">
 
-### Position, velocity, acceleration trajectories for 30 vehicles in the network with randomly assigned initial velocities
+### Position, velocity, acceleration trajectories for 30 vehicles with different velocities for different roads
 
 <img src="images/Case3_position.png" width="200" height="200"> <img src="images/Case3_velocity.png" width="200" height="200"> <img src="images/Case3_acceleration.png" width="200" height="200">
 
