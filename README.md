@@ -14,7 +14,6 @@
 
 <img src="images/Case3_position.png" width="200" height="200"> <img src="images/Case3_velocity.png" width="200" height="200"> <img src="images/Case3_acceleration.png" width="200" height="200">
 
+### Animation
 
-
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37514406/126718238-b98deb16-57bf-4683-b58c-cafd8ec02abe.gif)
